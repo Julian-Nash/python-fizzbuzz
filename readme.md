@@ -4,7 +4,7 @@ Two function variations of "FizzBuzz".
 
 ### Usage
 
-Clone this repo:
+Clone this repo & run:
 
 ```sh
 python example.py
